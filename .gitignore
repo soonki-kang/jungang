@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycashe__
+myvenv
+/static
+.DS_Store
